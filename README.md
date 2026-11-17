@@ -1,7 +1,8 @@
+
 # Open University ProctorU Forensic Audit
 
-**Independent Forensic Audit: Biometric Surveillance, Consent Validity, and Procurement Governance in UK Higher Education (Case Study 2026)**  
-*Author: Valentina Bozhilova, MIAB*
+**Independent Forensic Audit: Biometric Surveillance, Consent Validity, and Procurement Governance in UK Higher Education (Case Study 2026)**
+*Author: Valentina Bozhilova, MIAB, MBCS, BCS PC.dp*
 
 ---
 
@@ -12,11 +13,12 @@
 ---
 
 ### About This Project
-Independent forensic case study on biometric surveillance, consent validity, and procurement governance in UK higher education, examining the deployment of ProctorU / Meazure Learning remote invigilation software.
+Independent forensic case study on biometric surveillance, consent validity, and procurement governance in UK higher education, examining the deployment of ProctorU / Meazure Learning remote invigilation software (15 November 2026 edition).
 
 ### Files
-* [Full report (PDF)](FULL-REPORT.pdf)
-* [Full report (Word): Independent_Forensic_Audit_v11Oct2026.docx](Independent_Forensic_Audit_v11Oct2026.docx)
+* [Full report (PDF): !FULL-REPORT-FINAL-15Nov2026.pdf](!FULL-REPORT-FINAL-15Nov2026.pdf)
+* [Full report (Word): !Independent_Forensic_Audit_FINAL_15Nov2026.docx](!Independent_Forensic_Audit_FINAL_15Nov2026.docx)
 
 ### License
 CC-BY-ND 4.0
+
